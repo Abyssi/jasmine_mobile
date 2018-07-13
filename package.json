@@ -1,0 +1,14 @@
+{
+  "name": "jasmine_mobile",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/main"
+  },
+  "dependencies": {
+    "npm": "latest",
+    "minimist": "latest",
+    "node-rdkafka": "latest",
+    "serialport": "latest"
+  }
+}
